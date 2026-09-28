@@ -1,0 +1,65 @@
+GUIDE DE MISE EN LIGNE - Senegalese Consulting & Services (version SEO)
+=======================================================================
+
+Ce dossier contient votre nouveau site optimise pour Google :
+  index.html ............ Accueil (avec donnees structurees Schema.org)
+  interpretation.html ... Page Interpretation
+  traduction.html ....... Page Traduction
+  logistique.html ....... Page Logistique
+  missions.html ......... Page Missions internationales
+  a-propos.html ......... Page A propos
+  contact.html .......... Page Contact
+  sitemap.xml ........... Plan du site pour Google
+  robots.txt ............ Instructions pour les moteurs de recherche
+  assets/style.css ...... Design du site
+  assets/main.js ........ Menu mobile
+
+-----------------------------------------------------------------------
+METTRE LE SITE EN LIGNE SUR VOTRE PROPRE COMPTE GITHUB
+(aucun administrateur web n'est necessaire)
+-----------------------------------------------------------------------
+
+1. Allez sur github.com et connectez-vous avec VOTRE compte
+   (consultingservicesn-lab).
+
+2. Ouvrez votre depot : senegalese-consulting-services
+   (ou creez-en un nouveau via le bouton vert "New" si besoin).
+
+3. Cliquez sur "Add file" > "Upload files".
+
+4. Faites glisser TOUS les fichiers de ce dossier, y compris le
+   dossier "assets". Astuce : selectionnez tout le contenu du dossier
+   d'un coup.
+
+5. En bas, cliquez sur "Commit changes" (bouton vert).
+   -> Si GitHub demande de remplacer des fichiers existants, acceptez :
+      c'est la nouvelle version qui remplace l'ancienne.
+
+6. Activez GitHub Pages (si ce n'est pas deja fait) :
+   - Onglet "Settings" du depot > menu "Pages" (a gauche).
+   - Source : "Deploy from a branch".
+   - Branch : "main" et dossier "/ (root)", puis "Save".
+   - Patientez 1 a 2 minutes : l'adresse du site s'affiche en haut.
+
+7. Verifiez le site a l'adresse indiquee, par exemple :
+   https://consultingservicesn-lab.github.io/senegalese-consulting-services/
+
+-----------------------------------------------------------------------
+BRANCHER VOTRE NOM DE DOMAINE (senegal-consulting-service.com)
+-----------------------------------------------------------------------
+Cette etape necessite l'acces a votre registrar (Name.com) OU a votre
+hebergement actuel. A faire APRES avoir verifie que le site GitHub
+fonctionne bien. Dites-le moi et je vous guiderai clic par clic.
+
+-----------------------------------------------------------------------
+APRES LA MISE EN LIGNE : bien referencer le site
+-----------------------------------------------------------------------
+1. Inscrivez le site dans Google Search Console
+   (search.google.com/search-console) et soumettez sitemap.xml.
+2. Creez / completez votre fiche Google Business Profile
+   (Ouakam, Dakar) et demandez des avis clients.
+3. Obtenez des liens depuis des annuaires professionnels senegalais
+   et des partenaires.
+
+Les effets SEO apparaissent generalement en quelques semaines a
+quelques mois.
