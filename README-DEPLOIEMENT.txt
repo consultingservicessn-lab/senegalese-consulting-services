@@ -1,15 +1,22 @@
-SENEGALese Consulting & Services — SEO V2
+SENEGALese Consulting & Services — version GitHub Pages (projet)
 
-Cette version comprend :
-- pages françaises optimisées ;
-- version anglaise /en/ ;
-- balises hreflang FR/EN ;
-- sitemap.xml et robots.txt ;
-- structure mobile et appels WhatsApp ;
-- pages spécialisées pour interprétation, traduction, logistique et missions.
+Cette archive est construite à partir de senegalese-consulting-redesign.zip.
+Elle cible le dépôt existant : consultingservicesn-lab/senegalese-consulting-services.
+URL du site : https://consultingservicesn-lab.github.io/senegalese-consulting-services/
 
-Publication gratuite : GitHub Pages.
+La version est préparée pour être publiée à la racine du dépôt. Les liens
+internes restent relatifs ou utilisent le chemin complet du site de projet.
+Les URL canoniques, hreflang, Open Graph, données structurées, sitemap.xml
+et robots.txt ciblent la même adresse GitHub Pages.
 
-Important : tant que senegal-consulting-service.com n’est pas sous votre contrôle DNS, publiez d’abord sur votre adresse github.io. Le domaine personnalisé pourra être raccordé ensuite.
+Avant publication :
+1. Décompresser cette archive et vérifier que ses fichiers sont à la racine
+   du dépôt (index.html, styles.css, script.js, en/, assets/).
+2. Sauvegarder le contenu actuel du dépôt ou créer une branche de sauvegarde.
+3. Intégrer les fichiers de cette archive sans téléverser le ZIP lui-même.
+4. Vérifier Settings > Pages : branche main, dossier racine (/) ou workflow
+   GitHub Actions statique correspondant au dépôt.
+5. Après publication, contrôler l'accueil, les pages FR/EN, les images,
+   le menu mobile et les liens de contact à l'adresse ci-dessus.
 
-Pour GitHub Pages : créer un dépôt public, envoyer tous les fichiers de ce dossier, puis Settings > Pages > Deploy from a branch / GitHub Actions selon votre méthode. GitHub Pages prend en charge les sites statiques HTML/CSS/JS.
+Aucun fichier CNAME n'est inclus : cette version vise l'adresse github.io.
