@@ -1,4 +1,4 @@
 User-agent: *
-Allow: /senegalese-consulting-services/
+Allow: /
 
 Sitemap: https://consultingservicesn-lab.github.io/senegalese-consulting-services/sitemap.xml

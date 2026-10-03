@@ -3,23 +3,11 @@
   <url>
     <loc>https://consultingservicesn-lab.github.io/senegalese-consulting-services/</loc>
     <xhtml:link rel="alternate" hreflang="fr-SN" href="https://consultingservicesn-lab.github.io/senegalese-consulting-services/" />
-    <xhtml:link rel="alternate" hreflang="en" href="https://consultingservicesn-lab.github.io/senegalese-consulting-services/en/" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://consultingservicesn-lab.github.io/senegalese-consulting-services/" />
-  </url>
-  <url>
-    <loc>https://consultingservicesn-lab.github.io/senegalese-consulting-services/en/</loc>
-    <xhtml:link rel="alternate" hreflang="fr-SN" href="https://consultingservicesn-lab.github.io/senegalese-consulting-services/" />
-    <xhtml:link rel="alternate" hreflang="en" href="https://consultingservicesn-lab.github.io/senegalese-consulting-services/en/" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://consultingservicesn-lab.github.io/senegalese-consulting-services/en/index.html" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://consultingservicesn-lab.github.io/senegalese-consulting-services/" />
   </url>
   <url>
     <loc>https://consultingservicesn-lab.github.io/senegalese-consulting-services/interpretation.html</loc>
-    <xhtml:link rel="alternate" hreflang="fr-SN" href="https://consultingservicesn-lab.github.io/senegalese-consulting-services/interpretation.html" />
-    <xhtml:link rel="alternate" hreflang="en" href="https://consultingservicesn-lab.github.io/senegalese-consulting-services/en/interpretation.html" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://consultingservicesn-lab.github.io/senegalese-consulting-services/" />
-  </url>
-  <url>
-    <loc>https://consultingservicesn-lab.github.io/senegalese-consulting-services/en/interpretation.html</loc>
     <xhtml:link rel="alternate" hreflang="fr-SN" href="https://consultingservicesn-lab.github.io/senegalese-consulting-services/interpretation.html" />
     <xhtml:link rel="alternate" hreflang="en" href="https://consultingservicesn-lab.github.io/senegalese-consulting-services/en/interpretation.html" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://consultingservicesn-lab.github.io/senegalese-consulting-services/" />
@@ -31,19 +19,7 @@
     <xhtml:link rel="alternate" hreflang="x-default" href="https://consultingservicesn-lab.github.io/senegalese-consulting-services/" />
   </url>
   <url>
-    <loc>https://consultingservicesn-lab.github.io/senegalese-consulting-services/en/translation.html</loc>
-    <xhtml:link rel="alternate" hreflang="fr-SN" href="https://consultingservicesn-lab.github.io/senegalese-consulting-services/traduction.html" />
-    <xhtml:link rel="alternate" hreflang="en" href="https://consultingservicesn-lab.github.io/senegalese-consulting-services/en/translation.html" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://consultingservicesn-lab.github.io/senegalese-consulting-services/" />
-  </url>
-  <url>
     <loc>https://consultingservicesn-lab.github.io/senegalese-consulting-services/logistique.html</loc>
-    <xhtml:link rel="alternate" hreflang="fr-SN" href="https://consultingservicesn-lab.github.io/senegalese-consulting-services/logistique.html" />
-    <xhtml:link rel="alternate" hreflang="en" href="https://consultingservicesn-lab.github.io/senegalese-consulting-services/en/logistics.html" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://consultingservicesn-lab.github.io/senegalese-consulting-services/" />
-  </url>
-  <url>
-    <loc>https://consultingservicesn-lab.github.io/senegalese-consulting-services/en/logistics.html</loc>
     <xhtml:link rel="alternate" hreflang="fr-SN" href="https://consultingservicesn-lab.github.io/senegalese-consulting-services/logistique.html" />
     <xhtml:link rel="alternate" hreflang="en" href="https://consultingservicesn-lab.github.io/senegalese-consulting-services/en/logistics.html" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://consultingservicesn-lab.github.io/senegalese-consulting-services/" />
@@ -55,19 +31,7 @@
     <xhtml:link rel="alternate" hreflang="x-default" href="https://consultingservicesn-lab.github.io/senegalese-consulting-services/" />
   </url>
   <url>
-    <loc>https://consultingservicesn-lab.github.io/senegalese-consulting-services/en/missions.html</loc>
-    <xhtml:link rel="alternate" hreflang="fr-SN" href="https://consultingservicesn-lab.github.io/senegalese-consulting-services/missions.html" />
-    <xhtml:link rel="alternate" hreflang="en" href="https://consultingservicesn-lab.github.io/senegalese-consulting-services/en/missions.html" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://consultingservicesn-lab.github.io/senegalese-consulting-services/" />
-  </url>
-  <url>
     <loc>https://consultingservicesn-lab.github.io/senegalese-consulting-services/a-propos.html</loc>
-    <xhtml:link rel="alternate" hreflang="fr-SN" href="https://consultingservicesn-lab.github.io/senegalese-consulting-services/a-propos.html" />
-    <xhtml:link rel="alternate" hreflang="en" href="https://consultingservicesn-lab.github.io/senegalese-consulting-services/en/about.html" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://consultingservicesn-lab.github.io/senegalese-consulting-services/" />
-  </url>
-  <url>
-    <loc>https://consultingservicesn-lab.github.io/senegalese-consulting-services/en/about.html</loc>
     <xhtml:link rel="alternate" hreflang="fr-SN" href="https://consultingservicesn-lab.github.io/senegalese-consulting-services/a-propos.html" />
     <xhtml:link rel="alternate" hreflang="en" href="https://consultingservicesn-lab.github.io/senegalese-consulting-services/en/about.html" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://consultingservicesn-lab.github.io/senegalese-consulting-services/" />
@@ -76,6 +40,42 @@
     <loc>https://consultingservicesn-lab.github.io/senegalese-consulting-services/contact.html</loc>
     <xhtml:link rel="alternate" hreflang="fr-SN" href="https://consultingservicesn-lab.github.io/senegalese-consulting-services/contact.html" />
     <xhtml:link rel="alternate" hreflang="en" href="https://consultingservicesn-lab.github.io/senegalese-consulting-services/en/contact.html" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://consultingservicesn-lab.github.io/senegalese-consulting-services/" />
+  </url>
+  <url>
+    <loc>https://consultingservicesn-lab.github.io/senegalese-consulting-services/en/index.html</loc>
+    <xhtml:link rel="alternate" hreflang="fr-SN" href="https://consultingservicesn-lab.github.io/senegalese-consulting-services/" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://consultingservicesn-lab.github.io/senegalese-consulting-services/en/index.html" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://consultingservicesn-lab.github.io/senegalese-consulting-services/" />
+  </url>
+  <url>
+    <loc>https://consultingservicesn-lab.github.io/senegalese-consulting-services/en/interpretation.html</loc>
+    <xhtml:link rel="alternate" hreflang="fr-SN" href="https://consultingservicesn-lab.github.io/senegalese-consulting-services/interpretation.html" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://consultingservicesn-lab.github.io/senegalese-consulting-services/en/interpretation.html" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://consultingservicesn-lab.github.io/senegalese-consulting-services/" />
+  </url>
+  <url>
+    <loc>https://consultingservicesn-lab.github.io/senegalese-consulting-services/en/translation.html</loc>
+    <xhtml:link rel="alternate" hreflang="fr-SN" href="https://consultingservicesn-lab.github.io/senegalese-consulting-services/traduction.html" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://consultingservicesn-lab.github.io/senegalese-consulting-services/en/translation.html" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://consultingservicesn-lab.github.io/senegalese-consulting-services/" />
+  </url>
+  <url>
+    <loc>https://consultingservicesn-lab.github.io/senegalese-consulting-services/en/logistics.html</loc>
+    <xhtml:link rel="alternate" hreflang="fr-SN" href="https://consultingservicesn-lab.github.io/senegalese-consulting-services/logistique.html" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://consultingservicesn-lab.github.io/senegalese-consulting-services/en/logistics.html" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://consultingservicesn-lab.github.io/senegalese-consulting-services/" />
+  </url>
+  <url>
+    <loc>https://consultingservicesn-lab.github.io/senegalese-consulting-services/en/missions.html</loc>
+    <xhtml:link rel="alternate" hreflang="fr-SN" href="https://consultingservicesn-lab.github.io/senegalese-consulting-services/missions.html" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://consultingservicesn-lab.github.io/senegalese-consulting-services/en/missions.html" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://consultingservicesn-lab.github.io/senegalese-consulting-services/" />
+  </url>
+  <url>
+    <loc>https://consultingservicesn-lab.github.io/senegalese-consulting-services/en/about.html</loc>
+    <xhtml:link rel="alternate" hreflang="fr-SN" href="https://consultingservicesn-lab.github.io/senegalese-consulting-services/a-propos.html" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://consultingservicesn-lab.github.io/senegalese-consulting-services/en/about.html" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://consultingservicesn-lab.github.io/senegalese-consulting-services/" />
   </url>
   <url>

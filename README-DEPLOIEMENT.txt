@@ -1,22 +1,32 @@
-SENEGALese Consulting & Services — version GitHub Pages (projet)
+SENEGALESE CONSULTING & SERVICES — VERSION GITHUB PAGES / REDESIGN + SEO
 
-Cette archive est construite à partir de senegalese-consulting-redesign.zip.
-Elle cible le dépôt existant : consultingservicesn-lab/senegalese-consulting-services.
-URL du site : https://consultingservicesn-lab.github.io/senegalese-consulting-services/
+Cette archive est préparée pour le site gratuit GitHub Pages :
+https://consultingservicesn-lab.github.io/senegalese-consulting-services/
 
-La version est préparée pour être publiée à la racine du dépôt. Les liens
-internes restent relatifs ou utilisent le chemin complet du site de projet.
-Les URL canoniques, hreflang, Open Graph, données structurées, sitemap.xml
-et robots.txt ciblent la même adresse GitHub Pages.
+CONTENU
+- Design international bilingue FR/EN ;
+- pages spécialisées : interprétation, traduction, logistique, missions, à propos, contact ;
+- illustrations SVG locales, légères et sans dépendance à des images externes ;
+- responsive mobile ;
+- SEO technique renforcé : titres et descriptions uniques, canoniques, hreflang FR/EN, Open Graph, Twitter cards, données structurées ProfessionalService, sitemap.xml, robots.txt, page 404 et manifest ;
+- aucun fichier CNAME : le site utilise actuellement le domaine gratuit github.io.
 
-Avant publication :
-1. Décompresser cette archive et vérifier que ses fichiers sont à la racine
-   du dépôt (index.html, styles.css, script.js, en/, assets/).
-2. Sauvegarder le contenu actuel du dépôt ou créer une branche de sauvegarde.
-3. Intégrer les fichiers de cette archive sans téléverser le ZIP lui-même.
-4. Vérifier Settings > Pages : branche main, dossier racine (/) ou workflow
-   GitHub Actions statique correspondant au dépôt.
-5. Après publication, contrôler l'accueil, les pages FR/EN, les images,
-   le menu mobile et les liens de contact à l'adresse ci-dessus.
+IMPORTANT
+Cette version ne doit pas être publiée avec un ancien CNAME ou avec les anciennes URLs du domaine personnalisé. Toutes les URLs absolues SEO ont été adaptées au domaine GitHub Pages actuel.
 
-Aucun fichier CNAME n'est inclus : cette version vise l'adresse github.io.
+PUBLICATION
+1. Décompresser cette archive.
+2. Copier le contenu à la racine du dépôt public GitHub : consultingservicesn-lab/senegalese-consulting-services
+3. Conserver la branche de publication utilisée par GitHub Pages (généralement main).
+4. Vérifier Settings > Pages et attendre le déploiement.
+5. Tester l'accueil, les pages FR/EN, le menu mobile, WhatsApp, email et téléphone.
+
+SEO — ORIENTATION
+- Ciblage FR/EN pour Dakar et le Sénégal ;
+- pages de service distinctes pour capter des requêtes intentionnelles ;
+- hreflang pour aider les moteurs à distinguer les versions linguistiques ;
+- données structurées locales sans inventer d'avis, de prix ou de certifications ;
+- sitemap cohérent avec l'URL GitHub Pages actuelle.
+
+NOTE
+Le SEO améliore la compréhension et l'indexabilité du site mais ne garantit pas une position précise dans Google. Pour un SEO encore plus avancé, la prochaine étape sera l'ajout et la vérification de Google Search Console, l'analyse des requêtes réelles et l'optimisation progressive des contenus.
