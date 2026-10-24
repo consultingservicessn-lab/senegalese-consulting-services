@@ -84,4 +84,16 @@
     <xhtml:link rel="alternate" hreflang="en" href="https://consultingservicesn-lab.github.io/senegalese-consulting-services/en/contact.html" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://consultingservicesn-lab.github.io/senegalese-consulting-services/" />
   </url>
+  <url>
+    <loc>https://consultingservicesn-lab.github.io/senegalese-consulting-services/securite.html</loc>
+    <xhtml:link rel="alternate" hreflang="fr-SN" href="https://consultingservicesn-lab.github.io/senegalese-consulting-services/securite.html" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://consultingservicesn-lab.github.io/senegalese-consulting-services/en/security.html" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://consultingservicesn-lab.github.io/senegalese-consulting-services/securite.html" />
+  </url>
+  <url>
+    <loc>https://consultingservicesn-lab.github.io/senegalese-consulting-services/en/security.html</loc>
+    <xhtml:link rel="alternate" hreflang="fr-SN" href="https://consultingservicesn-lab.github.io/senegalese-consulting-services/securite.html" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://consultingservicesn-lab.github.io/senegalese-consulting-services/en/security.html" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://consultingservicesn-lab.github.io/senegalese-consulting-services/securite.html" />
+  </url>
 </urlset>
