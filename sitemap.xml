@@ -96,4 +96,16 @@
     <xhtml:link rel="alternate" hreflang="en" href="https://consultingservicessn-lab.github.io/senegalese-consulting-services/en/security.html" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://consultingservicessn-lab.github.io/senegalese-consulting-services/securite.html" />
   </url>
+  <url>
+    <loc>https://consultingservicessn-lab.github.io/senegalese-consulting-services/guide-mission-senegal.html</loc>
+    <xhtml:link rel="alternate" hreflang="fr-SN" href="https://consultingservicessn-lab.github.io/senegalese-consulting-services/guide-mission-senegal.html" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://consultingservicessn-lab.github.io/senegalese-consulting-services/en/senegal-mission-guide.html" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://consultingservicessn-lab.github.io/senegalese-consulting-services/guide-mission-senegal.html" />
+  </url>
+  <url>
+    <loc>https://consultingservicessn-lab.github.io/senegalese-consulting-services/en/senegal-mission-guide.html</loc>
+    <xhtml:link rel="alternate" hreflang="fr-SN" href="https://consultingservicessn-lab.github.io/senegalese-consulting-services/guide-mission-senegal.html" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://consultingservicessn-lab.github.io/senegalese-consulting-services/en/senegal-mission-guide.html" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://consultingservicessn-lab.github.io/senegalese-consulting-services/guide-mission-senegal.html" />
+  </url>
 </urlset>
