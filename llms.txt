@@ -1,0 +1,33 @@
+# Senegalese Consulting & Services
+
+> Dakar-based professional support for interpretation, translation and mission logistics in Senegal.
+
+Senegalese Consulting & Services helps companies, NGOs, international organisations, consultants and visiting teams prepare professional assignments in Senegal. Availability, scope and arrangements should be confirmed directly with the team.
+
+## Main services
+- Professional interpretation: https://consultingservicessn-lab.github.io/senegalese-consulting-services/interpretation.html
+- Professional translation: https://consultingservicessn-lab.github.io/senegalese-consulting-services/traduction.html
+- Mission logistics: https://consultingservicessn-lab.github.io/senegalese-consulting-services/logistique.html
+- Mission support: https://consultingservicessn-lab.github.io/senegalese-consulting-services/missions.html
+- Security and protection coordination: https://consultingservicessn-lab.github.io/senegalese-consulting-services/securite.html
+
+## Practical guides
+- French: https://consultingservicessn-lab.github.io/senegalese-consulting-services/guide-mission-senegal.html
+- English: https://consultingservicessn-lab.github.io/senegalese-consulting-services/en/senegal-mission-guide.html
+
+## Language versions
+- French home: https://consultingservicessn-lab.github.io/senegalese-consulting-services/
+- English home: https://consultingservicessn-lab.github.io/senegalese-consulting-services/en/index.html
+
+## Contact
+- Email: consultingservices.sn@gmail.com
+- Email: contact@scs-consulting.net
+- Phone: +221 77 484 43 24
+- Phone: +221 76 765 96 65
+- Location: Ouakam, Dakar, Senegal
+
+## Site information
+- Sitemap: https://consultingservicessn-lab.github.io/senegalese-consulting-services/sitemap.xml
+- Robots file: https://consultingservicessn-lab.github.io/senegalese-consulting-services/robots.txt
+
+This file is a concise, human-maintained index for AI tools and readers. It is informational, not a guarantee of inclusion or ranking in any search engine.
