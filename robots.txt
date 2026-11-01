@@ -2,3 +2,4 @@ User-agent: *
 Allow: /
 
 Sitemap: https://consultingservicessn-lab.github.io/senegalese-consulting-services/sitemap.xml
+Sitemap: https://consultingservicessn-lab.github.io/senegalese-consulting-services/sitemap.txt
