@@ -1,10 +1,12 @@
 # Senegalese Consulting & Services
 
-> Dakar-based professional support for interpretation, translation and mission logistics in Senegal.
+> Dakar-based professional support for English language training, interpretation, translation and mission logistics in Senegal.
 
 Senegalese Consulting & Services helps companies, NGOs, international organisations, consultants and visiting teams prepare professional assignments in Senegal. Availability, scope and arrangements should be confirmed directly with the team.
 
 ## Main services
+- English language training: https://consultingservicessn-lab.github.io/senegalese-consulting-services/formation-anglais.html
+- English language training (English page): https://consultingservicessn-lab.github.io/senegalese-consulting-services/en/english-training.html
 - Professional interpretation: https://consultingservicessn-lab.github.io/senegalese-consulting-services/interpretation.html
 - Professional translation: https://consultingservicessn-lab.github.io/senegalese-consulting-services/traduction.html
 - Mission logistics: https://consultingservicessn-lab.github.io/senegalese-consulting-services/logistique.html
