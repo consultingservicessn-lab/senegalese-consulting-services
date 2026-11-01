@@ -16,3 +16,5 @@ https://consultingservicessn-lab.github.io/senegalese-consulting-services/securi
 https://consultingservicessn-lab.github.io/senegalese-consulting-services/en/security.html
 https://consultingservicessn-lab.github.io/senegalese-consulting-services/guide-mission-senegal.html
 https://consultingservicessn-lab.github.io/senegalese-consulting-services/en/senegal-mission-guide.html
+https://consultingservicessn-lab.github.io/senegalese-consulting-services/formation-anglais.html
+https://consultingservicessn-lab.github.io/senegalese-consulting-services/en/english-training.html
